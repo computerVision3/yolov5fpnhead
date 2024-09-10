@@ -1,4 +1,4 @@
-# yolov5 with fpnhead
+# yolov5fpnhead
 
 ### Clone repo and install requirements.txt
 `https://github.com/computerVision3/yolov5fpnhead`
