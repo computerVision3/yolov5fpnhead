@@ -162,6 +162,4 @@ cython_debug/
 #.idea/
 
 
-.venv/*
 Real-Data-13/*
-yolov5/*
